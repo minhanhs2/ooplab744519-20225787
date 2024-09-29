@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex6_5 {
+public class Bai6_5 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

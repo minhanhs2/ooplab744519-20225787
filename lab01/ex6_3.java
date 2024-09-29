@@ -1,7 +1,6 @@
 import java.util.*;
 public class ex6_3 {
 	public static void main(String[] arg ) {
-	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Input your number: ");
 		int n = sc.nextInt();
