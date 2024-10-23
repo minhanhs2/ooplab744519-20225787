@@ -7,8 +7,7 @@ public class ex226 {
         int choice;
 
         do {
-            S
-            ystem.out.println("\nMenu:");
+            System.out.println("\nMenu:");
             System.out.println("1. Solve a linear equation (ax + b = 0)");
             System.out.println("2. Solve a system of linear equations (ax + by = c, dx + ey = f)");
             System.out.println("3. Solve a quadratic equation (ax^2 + bx + c = 0)");
