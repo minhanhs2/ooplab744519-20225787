@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai6_4 {
+public class ex6_4 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
