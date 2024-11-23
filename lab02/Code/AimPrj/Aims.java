@@ -21,5 +21,6 @@ public class Aims {
         anOrder.remove("Star Wars");
         System.out.println("\nList after remove:");
         anOrder.showbill(); 
+        
     }
 }
