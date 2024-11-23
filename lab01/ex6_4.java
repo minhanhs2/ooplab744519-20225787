@@ -1,13 +1,12 @@
 import java.util.Scanner;
 
-public class Bai6_4 {
+public class ex6_4 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         while (true) {
             System.out.print("Enter a month (full name, abbreviation, 3 letters, or number): ");
-            // Chuan hoa xau
             String monthInput = input.nextLine().trim().toLowerCase();
 
             System.out.print("Enter a year (non-negative number): ");
