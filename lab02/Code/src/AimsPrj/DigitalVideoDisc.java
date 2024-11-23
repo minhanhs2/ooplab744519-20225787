@@ -53,11 +53,11 @@ public class DigitalVideoDisc {
         return name;
     }
 
-    public String getDescription() {
+    public String getdescription() {
         return description;
     }
     
-    public double getPrice() {
+    public double getprice() {
         return price;
     }
 
@@ -65,7 +65,7 @@ public class DigitalVideoDisc {
         return inStock;
     }
 
-    public void showDetail() {
+    public void ShowDetail() {
         System.out.println("DVD's detail:");
         System.out.println("Title: " + name);
         System.out.println("Description: " + description);
